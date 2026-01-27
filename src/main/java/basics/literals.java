@@ -1,11 +1,14 @@
+package basics;
 
 public class literals {
     public static void main(String[] args) {
 
-        int hola = 20;
-        char uwu = 'x';
-        String saludos = "hola quee tal";
+        String nombre = "Mateo";
+        int edad = 25;
+        char inicial = 'M';
+        System.out.println("Nombre: " + nombre);
+        System.out.println("Edad: " + edad);
+        System.out.println("Inicial: " + inicial);
 
-        System.out.println(saludos + " me llamo " + uwu + " tengo " + hola + " años");
     }
 }
