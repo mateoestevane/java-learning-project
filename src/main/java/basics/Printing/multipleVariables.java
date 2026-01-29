@@ -1,4 +1,4 @@
-package basics;
+package basics.Printing;
 
 public class multipleVariables {
     public static void main(String[] args) {

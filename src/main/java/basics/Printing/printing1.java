@@ -1,4 +1,4 @@
-package basics;
+package basics.Printing;
 
 public class printing1 {
     public static void main(String[] args) {

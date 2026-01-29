@@ -1,4 +1,4 @@
-package basics;
+package basics.Printing;
 
 public class literals {
     public static void main(String[] args) {

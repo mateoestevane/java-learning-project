@@ -1,4 +1,4 @@
-package basics;
+package basics.Scanners;
 import java.util.Scanner;
 public class scannerHolaDos {
     public static void main(String[] args) {
