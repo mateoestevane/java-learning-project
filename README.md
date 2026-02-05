@@ -8,7 +8,12 @@ Dominar Java
 ## 📚 Progreso por Temas
 
 ### ✅ Completado
-- **Tema 01 - Variables** - int, double, String, char, operadores
+- **Tema 01 - Variables** ⭐ COMPLETADO
+    - Tipos de datos (int, double, String, char, boolean)
+    - Operadores aritméticos
+    - Scanner y entrada de datos
+    - Calculadora básica con validación
+    - Conversión de tipos
 - **Tema 02 - Condicionales** - if-else, operadores lógicos
 
 ### 🔄 Estudiando Ahora
