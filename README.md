@@ -1,9 +1,9 @@
-# Mi Aprendizaje de Java
+# Java Sandbox
 
-Repositorio para sincronizar mi progreso de estudio entre PC y laptop.
+Hola, este repositorio es para recopilar y sincronizar mis avances en el aprendizaje del lenguaje de programación Java. Como tambien aprender el uso de git y de los repositorios.
 
 ##  Objetivo
-Dominar Java
+Mi objetivo es aprender en la medida de lo posible Java y sus temas fundamentales para asi poder continuar con proyectos personales que demuestren mis capacidades y conocimiento en Java y tecnologías funcionales con el lenguaje mismo. 
 
 ##  Progreso por Temas
 
@@ -43,7 +43,7 @@ src/main/java/
 ```
 
 ##  Ejercicios Completados
-- [x] Conversor de Monedas ⭐ (Integrador Tema 01)
+- [x] Conversor de Monedas  (Integrador Tema 01)
 
 
 ##  Proyectos
@@ -51,5 +51,8 @@ src/main/java/
 
 ##  Notas
 - Última actualización: 12 Feb 2026
-- Estudiando diariamente
-- Sincronizando entre PC y laptop
+- Actualmente estoy usando como recursos los siguientes enlaces:
+https://hyperskill.org/courses/8-introduction-to-java
+https://www.w3schools.com/java/java_getstarted.asp
+https://www.youtube.com/watch?v=xTtL8E4LzTQ&t=663s
+- 
